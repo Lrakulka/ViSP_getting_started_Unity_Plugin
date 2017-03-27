@@ -15,7 +15,7 @@ The folder ..//UnityImageLoadAndSavePluginTest//Assets//Plugin contains compiled
 
 To exit from game press Alt+F4
 
-Game Screenshots
+Project Screenshots
 ![](https://github.com/Lrakulka/ViSP_getting_started_Unity_Plugin/blob/master/info/loadImage.png)
 ![](https://github.com/Lrakulka/ViSP_getting_started_Unity_Plugin/blob/master/info/selectCircle.png)
 ![](https://github.com/Lrakulka/ViSP_getting_started_Unity_Plugin/blob/master/info/decorated.png)
